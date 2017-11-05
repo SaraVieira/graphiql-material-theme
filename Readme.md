@@ -4,13 +4,17 @@
 
 ## How to use:
 
+```bash
+yarn add graphiql-material-theme --dev
+```
+
 
 ```jsx
 import React from 'react';
 import ReactDOM from 'react-dom';
 import GraphiQL from 'graphiql';
 import fetch from 'isomorphic-fetch';
-import 'graphiql-material-theme/style.css';
+import 'graphiql-material-theme';
 
 function graphQLFetcher(graphQLParams) {
   return fetch(window.location.origin + '/graphql', {
