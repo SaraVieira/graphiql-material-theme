@@ -2,6 +2,8 @@
 
 [Demo](https://iamsaravieira.com)
 
+![demo](https://file-aymjezcxxa.now.sh/)
+
 ## How to use:
 
 ```bash
