@@ -1,6 +1,6 @@
 {
   "name": "graphiql-material-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Material Theme for GraphiQL",
   "main": "style.css",
   "repository": "https://github.com/SaraVieira/graphiql-material-theme",
