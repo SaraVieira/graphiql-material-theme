@@ -1,0 +1,20 @@
+{
+  "name": "graphiql-material-theme",
+  "version": "0.0.0",
+  "description": "Material Theme for GraphiQL",
+  "main": "style.css",
+  "repository": "https://github.com/SaraVieira/graphiql-material-theme",
+  "author": "Sara Vieira",
+  "license": "MIT",
+  "scripts": {
+      "start": "postcss 'styles/editor.css' > style.css"
+  },
+  "devDependencies": {
+    "postcss-cli": "^4.1.1",
+    "postcss-cssnext": "3.0.2",
+    "postcss-import": "^11.0.0"
+  },
+  "dependencies": {
+    "postcss": "^6.0.14"
+  }
+}
